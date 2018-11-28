@@ -1,0 +1,7 @@
+Proceso Fibonacci generado
+1
+1
+Proceso Fibonacci generado
+29
+58
+87

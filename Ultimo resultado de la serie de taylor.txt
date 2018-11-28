@@ -1,0 +1,2 @@
+Proceso Taylor generado  
+ El valor de Taylor para n = 4, x = 6, es = 55
